@@ -1,6 +1,6 @@
 # E-Prescription - Developer Assignment (Sipatex)
 
-Aplikasi resep obat digital sederhana berbasis Laravel 10. Project ini dibuat sebagai bagian dari Take-Home Test untuk posisi **Developer Web** di PT Sipatex Putri Lestari.
+Aplikasi resep obat digital sederhana berbasis Laravel 12. Project ini dibuat sebagai bagian dari Take-Home Test untuk posisi **Developer Web** di PT Sipatex Putri Lestari.
 
 Aplikasi ini memungkinkan user melakukan pencatatan resep obat secara digital, baik dalam bentuk **non-racikan** maupun **racikan**. Fitur mencakup validasi stok, draft resep, pengurangan stok otomatis, dan cetak resep PDF.
 
