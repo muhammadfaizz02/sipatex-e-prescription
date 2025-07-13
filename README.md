@@ -56,5 +56,33 @@ Cetak resep sebagai PDF
 
 Dropdown pencarian obat & signa (TomSelect)
 
-Responsive UI (Tailwind CSS + Alpine.js)
+Responsive UI (Tailwind CSS + Javascript)
 
+🛠️ Teknologi yang Digunakan
+Laravel 12
+
+PHP 8.2x
+
+MySQL / MariaDB
+
+Vite
+
+Tailwind CSS
+
+Javascript
+
+📁 Struktur Folder Utama
+app/Models — Model Laravel (Obat, Signa, Resep, dll)
+
+app/Http/Controllers — Logika utama form resep
+
+resources/views/resep — Tampilan form & riwayat resep
+
+routes/web.php — Routing aplikasi
+
+database/migrations` — Berisi struktur tabel database (obat, signa, resep, detail resep, dll).
+
+👤 Developer
+Nama : Muhammad Faiz Akbar Kamil
+Email : muhammadfaizkamil123@gmail.com
+HP : 081395163254
