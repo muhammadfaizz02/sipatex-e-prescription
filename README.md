@@ -54,7 +54,7 @@ Simpan resep → stok otomatis berkurang
 
 Cetak resep sebagai PDF
 
-Dropdown pencarian obat & signa (TomSelect)
+Dropdown pencarian obat & signa/carapakai
 
 Responsive UI (Tailwind CSS + Javascript)
 
