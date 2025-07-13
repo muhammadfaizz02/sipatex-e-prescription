@@ -72,15 +72,15 @@ Tailwind CSS
 Javascript
 
 📁 Struktur Folder Utama
-app/Models — Model Laravel (Obat, Signa, Resep, dll)
+app/Models — Model Laravel (Obatalkes, Signa, Resep, ResepDetail)
 
-app/Http/Controllers — Logika utama form resep
+app/Http/Controllers — Logika utama (ResepController)
 
-resources/views/resep — Tampilan form & riwayat resep
+resources/views/resep — Tampilan form (create,show,print,index)
 
 routes/web.php — Routing aplikasi
 
-database/migrations` — Berisi struktur tabel database (obat, signa, resep, detail resep, dll).
+database/migrations — Berisi struktur tabel database (obat, signa, resep, detail resep, dll).
 
 👤 Developer
 Nama : Muhammad Faiz Akbar Kamil
